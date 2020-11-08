@@ -1,6 +1,5 @@
 a) Run gradle project. 
-
-   gradlew build
+   1)gradlew build
 b) Import SoCash_Drunken_kkolluri.postman_collection.json into postman.
 c) Run the follwing API in the monetioned order. 
    1) Creat Game //creates a new game, returns ID and the player1 joins the game
